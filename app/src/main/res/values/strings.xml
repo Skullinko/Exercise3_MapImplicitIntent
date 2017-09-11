@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapImplicitIntent</string>
+    <string name="tw_text">Give a location (lat, lng):</string>
+    <string name="et_lat">latitude</string>
+    <string name="et_lng">longitude</string>
+    <string name="btn_text">Show a Map</string>
+</resources>
